@@ -1,6 +1,6 @@
 {
-  "name": "On-Demand Merch Mockups",
-  "description": "Upload your logo or generate one with AI, place it interactively on realistic product mockups, and export print-ready files.",
+  "name": "",
+  "description": "",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
